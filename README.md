@@ -6,13 +6,13 @@
 <h1> <p align="center"> Knowledge Repository  </p> </h1>
 <h3> <p align="center"> ================= </p> </h3>
 
-<h3> Index  </h3>
+<h3> <p align="center"> Index  </p>  </h3>
 
-<p>
+<p align="center">
 <ol align="center" >
- <li align="center" > <a href="https://github.com/batestin1/Knowledge-Repository-/tree/main/books"> Books </a> </li>
- <li align="center" > <a href="https://github.com/batestin1/Knowledge-Repository-/tree/main/roadmap"> Roadmap </a> </li>
- <li align="center"  > <a href="https://github.com/batestin1/Knowledge-Repository-/tree/main/guidelines"> Guidelines </a> </li>
+ <li> <a href="https://github.com/batestin1/Knowledge-Repository-/tree/main/books"> Books </a> </li>
+ <li> <a href="https://github.com/batestin1/Knowledge-Repository-/tree/main/roadmap"> Roadmap </a> </li>
+ <li> <a href="https://github.com/batestin1/Knowledge-Repository-/tree/main/guidelines"> Guidelines </a> </li>
  </ol>
 </p>
 
