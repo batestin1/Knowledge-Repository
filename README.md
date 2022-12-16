@@ -11,13 +11,13 @@
 
 <p> An ocean of knowledge organized by books and roadmap to help you navigate the universe of codes </p>
 
-<h3> <p align="center">  Index </p>  </h3>
+<h1> <p align="center">  Index </p>  </h1>
 
 <p align="center">
-<ol align="center">
-<a href="https://github.com/batestin1/Knowledge-Repository-/tree/main/books"> Books </a> 
-<a href="https://github.com/batestin1/Knowledge-Repository-/tree/main/roadmap"> Roadmap </a> 
-<a href="https://github.com/batestin1/Knowledge-Repository-/tree/main/guidelines"> Guidelines </a> 
+<ol>
+ <li align="center"> <a href="https://github.com/batestin1/Knowledge-Repository-/tree/main/books"> Books </a> </li>
+ <li align="center"> <a href="https://github.com/batestin1/Knowledge-Repository-/tree/main/roadmap"> Roadmap </a> </li>
+ <li align="center"> <a href="https://github.com/batestin1/Knowledge-Repository-/tree/main/guidelines"> Guidelines </a> </li>
  </ol>
 </p>
 
