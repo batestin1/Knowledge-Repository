@@ -14,7 +14,7 @@
 <h3> <p align="center">  Index </p>  </h3>
 
 <p align="center">
-<ol>
+<ol align="center">
  <li> <a href="https://github.com/batestin1/Knowledge-Repository-/tree/main/books"> Books </a> </li>
  <li> <a href="https://github.com/batestin1/Knowledge-Repository-/tree/main/roadmap"> Roadmap </a> </li>
  <li> <a href="https://github.com/batestin1/Knowledge-Repository-/tree/main/guidelines"> Guidelines </a> </li>
