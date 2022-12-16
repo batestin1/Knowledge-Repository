@@ -9,10 +9,10 @@
 <h3> <p align="center"> Index  </p>  </h3>
 
 <p>
-<ol align="center" >
-<h3> <a href="https://github.com/batestin1/Knowledge-Repository-/tree/main/guidelines"> Guidelines </a> </h3>
-<h3> <a href="https://github.com/batestin1/Knowledge-Repository-/tree/main/books"> Books </a> </h3>
-<h3> <a href="https://github.com/batestin1/Knowledge-Repository-/tree/main/roadmap"> Roadmap </a> </h3>
+<ol >
+ <li> <a href="https://github.com/batestin1/Knowledge-Repository-/tree/main/books"> Books </a> </li>
+ <li> <a href="https://github.com/batestin1/Knowledge-Repository-/tree/main/roadmap"> Roadmap </a> </li>
+ <li> <a href="https://github.com/batestin1/Knowledge-Repository-/tree/main/guidelines"> Guidelines </a> </li>
  </ol>
 </p>
 
