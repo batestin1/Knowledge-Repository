@@ -3,15 +3,15 @@
 
 
 
-<h3> <p align="center"> Knowledge Repository  </p> </h3>
+<h1> <p align="center"> Knowledge Repository  </p> </h1>
 <h3> <p align="center"> ================= </p> </h3>
 
 
->> <h3> Description </h3>
+>> <h2> Description </h2>
 
 <p> An ocean of knowledge organized by books and roadmap to help you navigate the universe of codes </p>
 
-> <h1> Index  </h1>
+<h1> Index  </h1>
 
 <p>
 <ol>
