@@ -13,11 +13,11 @@
 
 <h1> <p align="center">  Index </p>  </h1>
 
-<p align="center">
+<p >
 <ol>
- <li align="center"> <a href="https://github.com/batestin1/Knowledge-Repository-/tree/main/books"> Books </a> </li>
- <li align="center"> <a href="https://github.com/batestin1/Knowledge-Repository-/tree/main/roadmap"> Roadmap </a> </li>
- <li align="center"> <a href="https://github.com/batestin1/Knowledge-Repository-/tree/main/guidelines"> Guidelines </a> </li>
+ <li> <a href="https://github.com/batestin1/Knowledge-Repository-/tree/main/books"> Books </a> </li>
+ <li> <a href="https://github.com/batestin1/Knowledge-Repository-/tree/main/roadmap"> Roadmap </a> </li>
+ <li> <a href="https://github.com/batestin1/Knowledge-Repository-/tree/main/guidelines"> Guidelines </a> </li>
  </ol>
 </p>
 
