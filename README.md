@@ -10,7 +10,7 @@
 >> <h3> An ocean of knowledge organized by books and roadmap to help you navigate the universe of codes </h3>
 
 <h3> Index  </h3>
-<p> ========================================================================================================</p>
+<p> =================================================================================</p>
 <p>
 <ol>
  <li> <a href="https://github.com/batestin1/Knowledge-Repository-/tree/main/books"> Books </a> </li>
