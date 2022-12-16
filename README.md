@@ -7,7 +7,7 @@
 <h3> <p align="center"> ================= </p> </h3>
 
 
->> <h2> An ocean of knowledge organized by books and roadmap to help you navigate the universe of codes </h2>
+>> <h3> An ocean of knowledge organized by books and roadmap to help you navigate the universe of codes </h3>
 
 <h3> Index  </h3>
 
