@@ -11,9 +11,9 @@
 
 <p> An ocean of knowledge organized by books and roadmap to help you navigate the universe of codes </p>
 
-<h1> <p align="center">  Index </p>  </h1>
+> <h1> Index  </h1>
 
-<p >
+<p>
 <ol>
  <li> <a href="https://github.com/batestin1/Knowledge-Repository-/tree/main/books"> Books </a> </li>
  <li> <a href="https://github.com/batestin1/Knowledge-Repository-/tree/main/roadmap"> Roadmap </a> </li>
