@@ -6,13 +6,10 @@
 <h1> <p align="center"> Knowledge Repository  </p> </h1>
 <h3> <p align="center"> ================= </p> </h3>
 
-
->> <h3> An ocean of knowledge organized by books and roadmap to help you navigate the universe of codes </h3>
-
 <h3> Index  </h3>
-<p> =================================================================================</p>
+
 <p>
-<ol>
+<ol align="center" >
  <li> <a href="https://github.com/batestin1/Knowledge-Repository-/tree/main/books"> Books </a> </li>
  <li> <a href="https://github.com/batestin1/Knowledge-Repository-/tree/main/roadmap"> Roadmap </a> </li>
  <li> <a href="https://github.com/batestin1/Knowledge-Repository-/tree/main/guidelines"> Guidelines </a> </li>
